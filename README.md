@@ -10,3 +10,5 @@ The Pancakeswap liquidity tokens (LP) has been burned (so unclaimable forever), 
 https://bscscan.com/token/0xac8c4e4803a9b28ff25655d1a150edaf4523c624#balances
 
 Feel free to ask any question regarding these contracts into our telegram help desk: t.me/safebetspace
+
+BSCscan token link (explorer): https://bscscan.com/token/0xefae08de3fa56c15ce04d6a490952cb4fa5529bb
